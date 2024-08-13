@@ -1,0 +1,31 @@
+.container{
+   width: 1400px;
+   height: 1100px;
+   border-color: rgb(224, 130, 130);
+    background-color: cornsilk;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: double;
+    text-align: center;
+}
+*{
+   
+    margin:10px;
+    padding: 10px;
+
+}
+img{
+    size: 150px;
+    border-radius: 10px;
+}
+h1{
+    background-color: rgb(226, 150, 10);
+}
+section{
+    display:inline-block;
+   size: 500px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
